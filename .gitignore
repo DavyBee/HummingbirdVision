@@ -1,0 +1,8 @@
+Data_Test
+__pycache__
+.DS_Store
+Results
+Dataset
+.vscode
+src/backend.egg-info
+*.ipynb
