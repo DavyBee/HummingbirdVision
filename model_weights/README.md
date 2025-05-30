@@ -1,0 +1,1 @@
+Models must be named either `YOLO.pt` or `DETR.pt` in this folder to be selected
