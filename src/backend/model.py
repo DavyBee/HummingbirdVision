@@ -25,8 +25,7 @@ class UltralyticsModel:
                     verbose=False,
                     conf=self.config.conf, 
                     iou=self.config.iou, 
-                    batch=self.config.batch_size,
-                    device='mps'
+                    batch=self.config.batch_size
                 )
         
         #making dict to store file name, overhead low

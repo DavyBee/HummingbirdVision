@@ -2,3 +2,5 @@
 # third party dependencies are covered by this package. They are detailed 
 # in pyproject.toml
 -e .
+
+- ipykernel
